@@ -1,0 +1,60 @@
+[
+  {
+    "ClienteNombre": "Francisco Pediconi",
+    "Direccion": "3 de febrero",
+    "Items": [
+      {
+        "Nombre": "Papitas lays",
+        "Precio": 2499,
+        "Cantidad": 3,
+        "Total": 7497
+      },
+      {
+        "Nombre": "Doritos",
+        "Precio": 6599.99,
+        "Cantidad": 5,
+        "Total": 32999.95
+      }
+    ],
+    "EnvioNombre": "Correo",
+    "Subtotal": 40496.95,
+    "CostoEnvio": 2500,
+    "Total": 42996.95,
+    "Fecha": "2025-11-07T13:41:20.4987853-03:00"
+  },
+  {
+    "ClienteNombre": "Francisco",
+    "Direccion": "Colon",
+    "Items": [
+      {
+        "Nombre": "P1",
+        "Precio": 6565,
+        "Cantidad": 2,
+        "Total": 13130
+      },
+      {
+        "Nombre": "P2",
+        "Precio": 1231,
+        "Cantidad": 9,
+        "Total": 11079
+      },
+      {
+        "Nombre": "P3",
+        "Precio": 111,
+        "Cantidad": 3,
+        "Total": 333
+      },
+      {
+        "Nombre": "P4",
+        "Precio": 988.9,
+        "Cantidad": 33,
+        "Total": 32633.7
+      }
+    ],
+    "EnvioNombre": "Retiro en local",
+    "Subtotal": 57175.7,
+    "CostoEnvio": 0,
+    "Total": 57175.7,
+    "Fecha": "2025-11-07T13:51:42.0319194-03:00"
+  }
+]
